@@ -1,0 +1,25 @@
+
+.heading
+{
+font-size: 50px;
+width: 100%;
+margin: 0px;
+border:  solid rgba(255, 0, 0, 0.152);
+}
+
+ 
+ body{
+     background-size: cover;
+     background-position:top;
+ }
+
+.room{
+    margin-top: 50px;
+    font-size: 50px;
+    color: rgb(0, 0, 0);
+    font-weight: bolder;
+}
+
+.btn-info{
+ background-color: rgba(5, 209, 255, 0.155);
+}
